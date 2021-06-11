@@ -19,4 +19,4 @@ You are required to model the price of houses with the available independent var
 Documents Uploaded
 - Ipython Notebook with prediction analysis
 - Subjective questions and answers regarding house price prediction
-- Input Data set and data dictionary
+- Input Data set
